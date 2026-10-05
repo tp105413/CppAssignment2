@@ -24,7 +24,7 @@ int main() {
 			Game game;
 			game.StartGame();
 		}
-	} while (choice != '2');
+	} while (choice != 2);
 
 	exit(0);
 
